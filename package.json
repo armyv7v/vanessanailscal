@@ -4,12 +4,10 @@
   "private": true,
   "rocketCritical": {
     "dependencies": [
-      "@dhiwise/component-tagger",
-      "react",
-      "react-dom",
-      "@reduxjs/toolkit",
-      "redux",
-      "react-router-dom"
+     "vite": "^5.0.0",
+  "@vitejs/plugin-react": "^4.2.1",
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0"
     ],
     "devDependencies": [
       "@vitejs/plugin-react",
