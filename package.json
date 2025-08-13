@@ -21,7 +21,7 @@
       "dev": "vite",
       "build": "vite build",
       "preview": "vite preview",
-      "start": "vite preview"  // Para producción en Vercel
+      "start": "npm run preview"  // ¡Cambio crucial aquí!
     ],
     "warning": "🚨 CRITICAL: DO NOT REMOVE OR MODIFY ABOVE DEPENDENCIES - Required for app functionality"
   },
