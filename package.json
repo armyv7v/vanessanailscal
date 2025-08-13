@@ -58,6 +58,7 @@
     "start": "vite",
     "build": "vite build --sourcemap",
     "serve": "vite preview"
+    "install": "npm install --include=dev"
   },
   "eslintConfig": {
     "extends": [
