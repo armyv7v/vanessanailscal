@@ -18,9 +18,10 @@
       "postcss"
     ],
     "scripts": [
-      "start",
-      "build",
-      "serve"
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview",
+      "start": "vite preview"  // Para producción en Vercel
     ],
     "warning": "🚨 CRITICAL: DO NOT REMOVE OR MODIFY ABOVE DEPENDENCIES - Required for app functionality"
   },
